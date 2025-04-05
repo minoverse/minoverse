@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minoverse
 - 👀 I’m interested in C++ developer
-- 🌱 I’m currently learning JS
-- 💞️ I learned Python, SQL, C,C++
+- 🌱 I’m currently learning C/C++ deeper
+- 💞️ I learned Python, Unix, C,C++
 - 📫 How to reach me ...
 
 <!---
